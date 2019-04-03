@@ -1,5 +1,6 @@
 <?php 
-/* $token - token of telegramm bot
+/* version 1.0
+ * $token - token of telegramm bot
  * $chat_id - id chat fof telegramm may be different
  * read telegramm api https://core.telegram.org/bots/api
  * 
